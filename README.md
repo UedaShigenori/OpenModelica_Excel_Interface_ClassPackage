@@ -12,6 +12,9 @@ ExcelVBAからOpenModelica Shellを動かすクラスライブラリです
 ## ライセンスについて
 本資料はGPL v3ライセンスを付与しています。   
 
-
+## 開発予定機能
+- moファイル or xmlファイルの初期値変更  
+- パラメータスタディ機能  
+- 最適化機能  
 - - -
 Copyright (C) Shigenori Ueda
