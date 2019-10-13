@@ -1,0 +1,2 @@
+setInitXmlStartValue("CoffeeTemperature.Test.CoffeeTest10_init.xml", "h", "10", "CoffeeTemperature.Test.CoffeeTest10_init.xml");
+system("CoffeeTemperature.Test.CoffeeTest10.exe -r=CoffeeTemperature.Test.CoffeeTest10_h_10.csv");

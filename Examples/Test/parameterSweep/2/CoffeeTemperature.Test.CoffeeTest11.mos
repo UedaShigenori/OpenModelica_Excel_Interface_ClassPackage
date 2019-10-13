@@ -1,0 +1,2 @@
+loadFile("CoffeeTemperature.mo");
+buildModel(CoffeeTemperature.Test.CoffeeTest11, startTime=0, stopTime=2400, numberOfIntervals=2400, tolerance=0.0001, storeInTemp=false, method="dassl", outputFormat="csv");
