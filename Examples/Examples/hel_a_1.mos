@@ -1,2 +1,0 @@
-setInitXmlStartValue("hel_init.xml", "a", "1", "hel_init.xml");
-system("hel.exe -r=hel_a_1.csv");
