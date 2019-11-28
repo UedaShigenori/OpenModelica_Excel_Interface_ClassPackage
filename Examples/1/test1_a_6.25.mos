@@ -1,2 +1,0 @@
-setInitXmlStartValue("test1_init.xml", "a", "6.25", "test1_init.xml");
-system("test1.exe -r=test1_a_6.25.csv");
