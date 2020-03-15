@@ -1,0 +1,3 @@
+cd("C:\Work\CAE\Modelica\OpenModelica\OpenModelica_Excel_Interface_ClassPackage\Examples\1");
+setInitXmlStartValue("test1_init.xml", "a", "5", "test1_init.xml");
+system("test1.exe -r=test1_a_5.csv");
